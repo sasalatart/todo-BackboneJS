@@ -5,6 +5,10 @@
 
 > Based on [TodoMVC's](http://todomvc.com/) implementation.
 
+### Demo
+
+http://sasalatart.github.io/todo-BackboneJS/
+
 ### Setup
 
 ```sh
